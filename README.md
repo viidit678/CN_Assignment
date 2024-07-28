@@ -1,1 +1,1 @@
-NAME=Bhupendra Singh    Rollono=WRC078BEI008
+NAME=BHUPENDRA Singh    Rollono=WRC078BEI008
